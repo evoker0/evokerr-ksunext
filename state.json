@@ -35,11 +35,36 @@
     "android15-6.6-2026-07": "139"
   },
   "builds": {
+    "android12-5.10|237|KernelSU-Next": "2025-06|v3.3.0",
+    "android12-5.10|240|KernelSU-Next": "2025-09|v3.3.0",
+    "android12-5.10|246|KernelSU-Next": "2025-12|v3.3.0",
+    "android12-5.10|252|KernelSU-Next": "2026-04|v3.3.0",
     "android12-5.10|257|KernelSU-Next": "2026-07|v3.3.0",
+    "android13-5.10|238|KernelSU-Next": "2025-07|v3.3.0",
+    "android13-5.10|243|KernelSU-Next": "2025-10|v3.3.0",
+    "android13-5.10|246|KernelSU-Next": "2026-01|v3.3.0",
+    "android13-5.10|252|KernelSU-Next": "2026-04|v3.3.0",
     "android13-5.10|257|KernelSU-Next": "2026-07|v3.3.0",
+    "android13-5.15|185|KernelSU-Next": "2025-07|v3.3.0",
+    "android13-5.15|189|KernelSU-Next": "2025-09|v3.3.0",
+    "android13-5.15|194|KernelSU-Next": "2025-12|v3.3.0",
+    "android13-5.15|197|KernelSU-Next": "2026-03|v3.3.0",
     "android13-5.15|206|KernelSU-Next": "2026-06|v3.3.0",
+    "android14-5.15|185|KernelSU-Next": "2025-07|v3.3.0",
+    "android14-5.15|192|KernelSU-Next": "2025-10|v3.3.0",
+    "android14-5.15|196|KernelSU-Next": "2026-01|v3.3.0",
+    "android14-5.15|202|KernelSU-Next": "2026-04|v3.3.0",
     "android14-5.15|208|KernelSU-Next": "2026-07|v3.3.0",
+    "android14-6.1|141|KernelSU-Next": "2025-07|v3.3.0",
+    "android14-6.1|145|KernelSU-Next": "2025-09|v3.3.0",
+    "android14-6.1|157|KernelSU-Next": "2025-12|v3.3.0",
+    "android14-6.1|162|KernelSU-Next": "2026-03|v3.3.0",
     "android14-6.1|172|KernelSU-Next": "2026-06|v3.3.0",
-    "android15-6.6|139|KernelSU-Next": "2026-07|v3.3.0"
+    "android15-6.6|102|KernelSU-Next": "2025-10|v3.3.0",
+    "android15-6.6|118|KernelSU-Next": "2026-01|v3.3.0",
+    "android15-6.6|127|KernelSU-Next": "2026-04|v3.3.0",
+    "android15-6.6|139|KernelSU-Next": "2026-07|v3.3.0",
+    "android15-6.6|92|KernelSU-Next": "2025-07|v3.3.0",
+    "android15-6.6|98|KernelSU-Next": "2025-09|v3.3.0"
   }
 }
